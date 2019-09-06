@@ -1,0 +1,33 @@
+
+body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+
+.select{
+	width: 200px;
+	height: 30px;
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	border-radius: 5px;
+}
+
+#prozor {
+	width: 1200px;
+	margin: auto;
+}
+
+#prozor img{
+	width: 600px;
+	display: inherit;
+    margin: auto;
+}
+
+.select{
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
